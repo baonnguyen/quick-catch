@@ -1,4 +1,4 @@
-revolver
+Quick-catch
 ========
 
-Automation tool for quick UI testing
+Automation tool for quick and dirty UI testing
